@@ -1,3 +1,6 @@
+<img width="1919" height="939" alt="Screenshot 2026-04-03 192352" src="https://github.com/user-attachments/assets/38cdeb33-77b0-42ef-8641-3724df3ef04a" />
+<img width="1919" height="936" alt="Screenshot 2026-04-03 192342" src="https://github.com/user-attachments/assets/a212c7cf-9dbc-4c0d-aa27-4341e603f403" />
+<img width="1899" height="942" alt="Screenshot 2026-04-03 192329" src="https://github.com/user-attachments/assets/2c6967c2-35b7-41f8-96b5-d02cb6fe1ce5" />
 # 💹 FinDash — Finance Dashboard Backend
 
 A full-stack finance dashboard system built with the MERN stack (MongoDB, Express, React, Node.js), featuring role-based access control, financial records management, and analytics APIs.

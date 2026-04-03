@@ -5,6 +5,11 @@
 
 A full-stack finance dashboard system built with the MERN stack (MongoDB, Express, React, Node.js), featuring role-based access control, financial records management, and analytics APIs.
 
+## 🚀 Live Demo
+
+- **Frontend:** https://finance-dashboard-backend-eight.vercel.app
+- **Backend API:** https://finance-dashboard-backend-r276.onrender.com
+
 ---
 
 ## 🚀 Tech Stack
